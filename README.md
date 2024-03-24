@@ -17,10 +17,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/khushi-kalra-a630311bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushi-kalra-a630311bb" height="30" width="40" /></a>
-<a href="https://kaggle.com/abckhush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abckhush" height="30" width="40" /></a>
+<!-- <a href="https://kaggle.com/abckhush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abckhush" height="30" width="40" /></a> -->
+<a href="https://youtube.com/@abckhush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abckhush" height="30" width="40" /></a>
 <a href="https://instagram.com/abckhush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abckhush" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/abckhush" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abckhush" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kalra_khushi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kalra_khushi" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/kalra_khushi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kalra_khushi" height="30" width="40" /></a> -->
 <a href="https://www.leetcode.com/abckhush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abckhush" height="30" width="40" /></a>
 </p>
 
